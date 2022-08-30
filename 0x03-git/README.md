@@ -1,1 +1,2 @@
-second readme
+
+coding is awesome,no doubts 🥹
