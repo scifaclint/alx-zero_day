@@ -1,4 +1,5 @@
 #!/bin/bash
-ALX School is so cool!"
+echo "The school is open!"
+
 
 
